@@ -1,0 +1,67 @@
+body {
+  background-color: #f4efec;
+  text-align: center;
+}
+h1 {
+  font-size: 20px;
+  color: orange;
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: italic;
+}
+.row {
+  font-size: 18px;
+}
+
+.weather {
+  font-size: 20px;
+  font-style: italic;
+  color: orange;
+}
+.forecast {
+  font-size: 20px;
+  font-style: italic;
+  font-weight: bold;
+  color: #63bfd2;
+}
+.days {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
+  color: #63bfd2;
+}
+.temp {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: lighter;
+  font-size: 18px;
+  color: #63bfd2;
+}
+.relative {
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: italic;
+  font-size: 16px;
+  padding: 0 auto;
+  color: #63bfd2;
+}
+.climate {
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: italic;
+  font-size: 16px;
+  padding: 0 auto;
+  color: #63bfd2;
+}
+.city {
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: italic;
+  font-size: 16px;
+  padding: 0 auto;
+  color: #63bfd2;
+}
+.application {
+  border: 1px solid #a3a3a4;
+  padding: 15px;
+  margin: 20px auto;
+  border-radius: 20px;
+  max-width: 700px;
+}
+.emoji-icon::before {
+  content: "\1F327";
+}
